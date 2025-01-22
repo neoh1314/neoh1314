@@ -15,10 +15,10 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=neoh1314&label=Profile%20views&color=0e75b6&style=flat" alt="neoh1314" />
 </p>
-<h3 align="center">Connect with me:</h3>
-<p align="center"> https://github.com/neoh1314 </p>
-<h3 align="center">Languages and Tools:</h3>
-<p align="center">
+<h3 align="left">Connect with me:</h3>
+<p align="left"> https://github.com/neoh1314 </p>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left">
   <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40" />
   </a>
