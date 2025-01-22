@@ -15,8 +15,6 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=neoh1314&label=Profile%20views&color=0e75b6&style=flat" alt="neoh1314" />
 </p>
-<h3 align="left">Connect with me:</h3>
-<p align="left"> https://github.com/neoh1314 </p>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
